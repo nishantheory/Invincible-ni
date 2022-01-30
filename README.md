@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Invincible-ni - Adki Nishanth.
-- 🌱 I’m currently pursuing M.Tech (Master of Technology) in Computer Science at JNTUH Hyderabad.
+- 🌱 Currently pursuing M.Tech (Master of Technology) in Computer Science at JNTUH Hyderabad.
 - 📫 How to reach me :- invinciblenishanth@gmail.com
 
 <!---
