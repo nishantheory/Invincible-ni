@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Invincible-ni - Adki Nishanth.
+- 👋 Hi, I’m @nishantheory - Adki Nishanth.
 - 🌱 Currently pursuing M.Tech (Master of Technology) in Computer Science at JNTUH Hyderabad.
 - 📫 How to reach me :- invinciblenishanth@gmail.com
 
